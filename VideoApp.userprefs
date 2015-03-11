@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="VideoApp/VideoApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_s4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VideoApp/MainActivity.cs">
+    <Files>
+      <File FileName="VideoApp/MainActivity.cs" Line="3" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/bin/Debug/VideoApp.dll.mdb
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/bin/Debug/VideoApp.dll
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/bin/Debug/VideoApp.VideoApp.apk
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/android/bin/VideoApp.VideoApp.apk
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/res/values/strings.xml
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/res/drawable-hdpi/icon.png
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/res/drawable-mdpi/icon.png
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/res/layout/main.xml
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/R.cs.flag
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/bin/Debug/VideoApp.VideoApp-Signed.apk
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/uploadflags.txt
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/VideoApp.dll
+/Users/tedikonda/unison/beam/vidyo-bridge/video-app/VideoApp/VideoApp/obj/Debug/VideoApp.dll.mdb
